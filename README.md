@@ -32,5 +32,6 @@ NOVEMBER 2019 - FEBRUARY 2021
 
 ### Certificates
 Google Business Intelligence Professional Certificate - Online JANUARY 2024 - JUNE 2024
+
 IBM Business Analyst professional Certificate - Online DECEMBER 2024 - APRIL 2025
 
