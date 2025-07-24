@@ -15,6 +15,7 @@ I’m open to remote and freelance roles around the world and especially excited
 ### Education
 University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - MAY 2019
 
+---
 
 ### Work Experience
 #### EXPERIENCE
@@ -32,6 +33,7 @@ NOVEMBER 2019 - FEBRUARY 2021
 - Managed and delivered essential reports for stakeholder review in monthly meetings.
 - Implemented a new quality control process to identify and correct errors in data entry, reducing inaccuracies by 75%.
 
+---
 
 ### Certificates
 Google Business Intelligence Professional Certificate - Online JANUARY 2024 - JUNE 2024
