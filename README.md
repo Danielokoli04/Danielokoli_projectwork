@@ -6,8 +6,11 @@ My goal? To help teams see beyond the numbers—spotting what matters, why it ma
 I don’t stop at delivering reports. I ask the right questions, uncover hidden issues, and turn insights into real impact. Whether it’s improving accuracy, streamlining reporting, or identifying missed opportunities, I bring structure and purpose to every dataset I touch.
 I’m open to remote and freelance roles around the world and especially excited to work with teams that believe in data as a driver for smart, timely decisions.
 
+---
+
 ### Technical Skills: SQl, Microsoft Excel, Python, Power Bi, Tableau
 
+---
 
 ### Education
 University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - MAY 2019
